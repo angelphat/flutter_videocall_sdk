@@ -20,8 +20,10 @@ A SDK support for video call and send data
 ,,,
 
 ## Add to your dart file
- ,,,dart
-
+```dart
+    //...
+    Example Usage
+    //...
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_videocall_sdk/flutter_videocall_sdk.dart';
