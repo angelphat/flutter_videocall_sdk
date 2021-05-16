@@ -1,7 +1,7 @@
 name: flutter_videocall_sdk
 description: A new Flutter package project support for video call
 version: 0.0.1
-author: angelphat<phatkhatuan@gmail.com>
+#author: angelphat<phatkhatuan@gmail.com>
 homepage: https://github.com/angelphat/flutter_videocall_sdk
 
 environment:
