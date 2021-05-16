@@ -16,8 +16,8 @@ dependencies:
   shared_preferences: ^2.0.0
   http: ^0.13.0
   path_provider: ^2.0.0
-  flutter_web_plugins:
-  shared_preferences_web:
+  flutter_web_plugins: ^0.3.11
+  shared_preferences_web: ^2.0.0
 
 dev_dependencies:
   flutter_test:
